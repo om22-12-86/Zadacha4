@@ -1,0 +1,15 @@
+/Users/om/Documents/Учёба/Home_work/Work_2/Zadacha4/Zadacha4/bin/Debug/net7.0/Zadacha4
+/Users/om/Documents/Учёба/Home_work/Work_2/Zadacha4/Zadacha4/bin/Debug/net7.0/Zadacha4.deps.json
+/Users/om/Documents/Учёба/Home_work/Work_2/Zadacha4/Zadacha4/bin/Debug/net7.0/Zadacha4.runtimeconfig.json
+/Users/om/Documents/Учёба/Home_work/Work_2/Zadacha4/Zadacha4/bin/Debug/net7.0/Zadacha4.dll
+/Users/om/Documents/Учёба/Home_work/Work_2/Zadacha4/Zadacha4/bin/Debug/net7.0/Zadacha4.pdb
+/Users/om/Documents/Учёба/Home_work/Work_2/Zadacha4/Zadacha4/obj/Debug/net7.0/Zadacha4.csproj.AssemblyReference.cache
+/Users/om/Documents/Учёба/Home_work/Work_2/Zadacha4/Zadacha4/obj/Debug/net7.0/Zadacha4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/om/Documents/Учёба/Home_work/Work_2/Zadacha4/Zadacha4/obj/Debug/net7.0/Zadacha4.AssemblyInfoInputs.cache
+/Users/om/Documents/Учёба/Home_work/Work_2/Zadacha4/Zadacha4/obj/Debug/net7.0/Zadacha4.AssemblyInfo.cs
+/Users/om/Documents/Учёба/Home_work/Work_2/Zadacha4/Zadacha4/obj/Debug/net7.0/Zadacha4.csproj.CoreCompileInputs.cache
+/Users/om/Documents/Учёба/Home_work/Work_2/Zadacha4/Zadacha4/obj/Debug/net7.0/Zadacha4.dll
+/Users/om/Documents/Учёба/Home_work/Work_2/Zadacha4/Zadacha4/obj/Debug/net7.0/refint/Zadacha4.dll
+/Users/om/Documents/Учёба/Home_work/Work_2/Zadacha4/Zadacha4/obj/Debug/net7.0/Zadacha4.pdb
+/Users/om/Documents/Учёба/Home_work/Work_2/Zadacha4/Zadacha4/obj/Debug/net7.0/Zadacha4.genruntimeconfig.cache
+/Users/om/Documents/Учёба/Home_work/Work_2/Zadacha4/Zadacha4/obj/Debug/net7.0/ref/Zadacha4.dll
